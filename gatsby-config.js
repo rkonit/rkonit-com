@@ -8,8 +8,8 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Ramesh Kumar`,
-    siteTitleAlt: `Ramesh Kumar - Senior Software Developer & Architect at Matrixsoft`,
-    siteHeadline: `Ramesh Kumar - Senior Software Developer & Architect at Matrixsoft`,
+    siteTitleAlt: `Ramesh Kumar - code, build, debug, deploy, collaborate on, analyze, and learn...`,
+    siteHeadline: `Ramesh Kumar - code, build, debug, deploy, collaborate on, analyze, and learn...`,
     siteUrl: `https://rkonit.com/`,
     siteDescription: `I write code, architect applications, or lead a team of developers and often have final say over the tools and platforms we use.`,
     siteLanguage: `en`,
